@@ -17,7 +17,8 @@ Deployed on Netlify [here](https://whenyouwilldie.netlify.app/).
 - 🗓️ Life calendar grid
 - 💾 LocalStorage support (your info persists!)
 - ♻️ Reset option to start over
+- ⚫️ Dark and light mode
 
 ## Resources
 
-Smoljames tutorial on [Youtube](https://www.youtube.com/watch?v=U5ETOo6R5vM&ab_channel=Smoljames) and [Netlify](https://unalive.netlify.app/)
+Smoljames tutorial on [Youtube](https://www.youtube.com/watch?v=U5ETOo6R5vM&ab_channel=Smoljames)
