@@ -6,7 +6,7 @@ Deployed on Netlify [here](https://whenyouwilldie.netlify.app/).
 
 ## 📸 Preview
 
-![Preview Screenshot](/src/assets/unalive-demo.gif)
+![Preview Screenshot](/src/assets/unalive-preview.png)
 
 ## ✨ Features
 
