@@ -2,7 +2,7 @@
 
 A quirky life-progress tracker that reminds you how many weeks you (probably) have left. Inspired by Smoljames's project Unalive, this app visualizes your life in weeks — from birth to your estimated life expectancy. Make them count. 🫡
 
-Deployed on Netlify [here](https://netlify.app/).
+Deployed on Netlify [here](https://whenyouwilldie.netlify.app/).
 
 ## 📸 Preview
 
